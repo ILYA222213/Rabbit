@@ -1,0 +1,5 @@
+C:\Users\ilruz\source\repos\Кролик и заяц\Кролик и заяц\obj\Debug\net6.0\Кролик и заяц.csproj.AssemblyReference.cache
+C:\Users\ilruz\source\repos\Кролик и заяц\Кролик и заяц\obj\Debug\net6.0\Кролик и заяц.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\Кролик и заяц\Кролик и заяц\obj\Debug\net6.0\Кролик и заяц.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\Кролик и заяц\Кролик и заяц\obj\Debug\net6.0\Кролик и заяц.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\Кролик и заяц\Кролик и заяц\obj\Debug\net6.0\Кролик и заяц.csproj.CoreCompileInputs.cache
